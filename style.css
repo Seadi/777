@@ -1,5 +1,5 @@
 body {max-width:660px;margin:0 auto;font-family: 'Open Sans';color:#222;text-align:center}
-hr {border-top: 1px dashed grey}
+hr {border-top: 1px dashed grey;max-width:70%}
 img {display:block;margin:0 auto;max-width:95%}
 a {text-decoration:none;color: #2c3e50}
 header {padding:20px 0 0 0;font-size:36px;color:#c0392b;font-family:Shadows Into Light}
