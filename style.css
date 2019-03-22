@@ -1,9 +1,9 @@
 body {max-width:660px;margin:0 auto;
-font-family: 'Merriwther';text-align:center;color:#222;}
+font-family: 'Merriweather';text-align:center;color:#222;}
 hr {border-top: 1px dashed grey}
 img {display:block;margin:0 auto}
 a {text-decoration:none;color: #2c3e50}
-header {padding:10px;font-size:56px;}
+header {padding:10px;font-size:56px;color:#c0392b;font-family:Shadows Into Light}
 nav {padding:5px;font-weight:bold;}
 nav a {margin-right:20px}
 article {text-align:left;padding:5px}
